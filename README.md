@@ -60,7 +60,7 @@ The catalog is passed to the AI as structured Markdown, allowing ShopBot to unde
 
 🤖 Display dynamic, friendly responses in real time
 
-💬 Chat with ShopBot
+## 💬 Chat with ShopBot
 Here’s a quick demo of how you can interact:
 
 Copy code:
@@ -70,7 +70,7 @@ ShopBot: Great choice! You may love our Elegant Evening Gown, available in Black
 ✅ Recommends products based on category, price, color, etc.
 ✅ Makes online shopping smooth, friendly, and helpful
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 💬 OpenAI GPT-3.5 Turbo – for conversational intelligence
 
 🖥️ Streamlit – for real-time chat interface
@@ -83,7 +83,7 @@ ShopBot: Great choice! You may love our Elegant Evening Gown, available in Black
 
 🎨 Custom CSS (optional) – to style the chatbot
 
-🧩 Features
+## 🧩 Features
 🛍️ Intelligent product recommendations
 
 💬 Friendly and helpful conversation style
@@ -94,12 +94,8 @@ ShopBot: Great choice! You may love our Elegant Evening Gown, available in Black
 
 💡 Beginner-friendly Python codebase
 
-🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome! If you have suggestions for improvements, features, or bug fixes, feel free to open an issue.
 
-🪪 License
-This project is licensed under the MIT License.
-
-📸 Preview
-Made with ❤️ using Python, Streamlit & OpenAI
-Let me know if you'd like to add a [preview GIF](f), [code badge section](f), or tips for deploying it to [Streamlit Cloud](f)!
+## 📜 License
+This project is licensed under the MIT License – see the LICENSE file for details.
