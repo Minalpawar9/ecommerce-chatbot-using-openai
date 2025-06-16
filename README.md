@@ -1,7 +1,7 @@
 # 🛍️ ShopBot: Building an E-commerce Chatbot with Python and OpenAI
 
 ShopBot is a conversational AI assistant built using **Python**, **OpenAI GPT**, and **Streamlit**. It enhances online fashion shopping by guiding users through product browsing, information lookup, and checkout – all through a sleek chat interface.
-
+![](https://6ixwebsoft.com/wp-content/uploads/2020/02/bann.png)
 ---
 
 ## 📑 Table of Contents
